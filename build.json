@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "odibbplusplusoffg6.jks",
+            "storePassword": "odibbplusplusg6",
+            "alias": "odibbplusplusoffg6",
+            "password" : "odibbplusplusg6",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "odibbplusplusoffg6.jks",
+            "storePassword": "odibbplusplusg6",
+            "alias": "odibbplusplusoffg6",
+            "password" : "odibbplusplusg6",  
+            "keystoreType": "jks"
+        }
+    }
+}
